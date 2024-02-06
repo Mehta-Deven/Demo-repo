@@ -1,2 +1,3 @@
 # Demo-repo
-This my first Repository
+This is my first Git Repository.
+Author:- Mehta Deven
